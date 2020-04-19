@@ -17,3 +17,5 @@ If you need another two datasets (PaviaU and Salinas), please feel free to conta
 PaviaU: http://www.ehu.eus/ccwintco/uploads/e/ee/PaviaU.mat, http://www.ehu.eus/ccwintco/uploads/5/50/PaviaU_gt.mat
 
 Salinas: http://www.ehu.eus/ccwintco/uploads/a/a3/Salinas_corrected.mat, http://www.ehu.eus/ccwintco/uploads/f/fa/Salinas_gt.mat
+
+Wrritten by Chengle Zhou (chengle_zhou@foxmail.com)
